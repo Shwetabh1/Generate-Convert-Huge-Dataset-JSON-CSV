@@ -1,7 +1,7 @@
 <h1 align="center"> Generate and Convert Huge DataSets </h1>
 
 <div align="center">
-    <img src="https://github.com/Shwetabh1/Generate-Convert-Huge-Dataset-JSON-CSV/blob/master/icon.jpgg" alt="Essential JavaScript"/>
+    <img src="https://github.com/Shwetabh1/Generate-Convert-Huge-Dataset-JSON-CSV/blob/master/icon.jpg" width="481" height="192" alt="Essential JavaScript"/>
   <br>
 </div>
 
